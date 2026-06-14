@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 100.443,
+        "lat": 13.714
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 38.34,
+        "feels_like": 45.34,
+        "temp_min": 38.34,
+        "temp_max": 38.34,
+        "pressure": 1007,
+        "humidity": 43,
+        "sea_level": 1007,
+        "grnd_level": 1006
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.05,
+        "deg": 192,
+        "gust": 5.51
+    },
+    "clouds": {
+        "all": 62
+    },
+    "dt": 1781421528,
+    "sys": {
+        "type": 2,
+        "id": 2073525,
+        "country": "TH",
+        "sunrise": 1781391040,
+        "sunset": 1781437577
+    },
+    "timezone": 25200,
+    "id": 1607782,
+    "name": "Phasi Charoen",
+    "cod": 200
+}
